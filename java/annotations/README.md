@@ -1,7 +1,9 @@
+description: >-
+  When it comes to large codebases, annotations are vital. They provide for a
+  smoother experience, providing information about existing code to make
+  developers' lives easier.
 sections:
-  - 0
-
-description: When it comes to large codebases, annotations are vital. They provide for a smoother experience, providing information about existing code to make developers' lives easier.
-
-prerequisites:
-  - java-data management
+  '0':
+    - annotations-i
+    - annotations-ii
+    - annotations-iii
