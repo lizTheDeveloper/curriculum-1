@@ -1,4 +1,4 @@
-name: Git-erminology
+name: Git-erminology-game
 
 type: game
 
