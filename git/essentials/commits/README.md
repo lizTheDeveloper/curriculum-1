@@ -6,7 +6,7 @@ description: Explore the unit of work in git - the commit.
 
 section: 0
 
-parent: git-erminology-game
+parent: git-erminology
 
 insights:
   - what-is-stored-in-a-commit
