@@ -1,4 +1,4 @@
-name: Git-erminology
+name: Git-erminology-game
 
 type: game
 
@@ -9,4 +9,4 @@ section: 0
 parent: remote-repository
 
 insights:
-  - git-erminology
+  - git-erminology-game
