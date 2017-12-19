@@ -9,4 +9,4 @@ section: 0
 parent: remote-repository
 
 insights:
-  - git-erminology
+  - git-erminology-game
